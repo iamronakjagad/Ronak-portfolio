@@ -1,0 +1,197 @@
+{
+  "profile": {
+    "name": "Ronak Jagad",
+    "title": "Frontend & Full-Stack Developer • Digital Marketer",
+    "subtitle": "Bridging clean, modern engineering with data-driven growth. Specializing in responsive React web applications, business websites, technical SEO, and marketing automation workflows.",
+    "location": "Mumbai, India",
+    "email": "jagadronak@gmail.com",
+    "resumeUrl": "/resume.pdf",
+    "linkedinUrl": "https://www.linkedin.com/in/ronak-jagad-44a9922b0/",
+    "githubUrl": "https://github.com/iamronakjagad",
+    "status": "Available for Full-time Roles, Internships & Freelance Projects",
+    "aboutBio": "I am Ronak Jagad, a developer and growth marketer based in Mumbai. Having a multidisciplinary background bridging commercial business acumen (B.Com) and technical development training at Grow Skills Academy, I bring a unique dual edge: I write clean, maintainable frontend & backend code while understanding SEO, conversion funnels, and organic marketing that actually drives measurable traffic and leads.",
+    "highlights": [
+      {
+        "title": "Full-Stack & Frontend Development",
+        "description": "Proficient in React.js, modern JavaScript (ES6+), responsive Tailwind CSS/Bootstrap, PHP, and MySQL. Focused on accessible, component-driven, high-performance interfaces."
+      },
+      {
+        "title": "Digital Marketing & Technical SEO",
+        "description": "Hands-on experience in on-page/technical SEO audits, organic keyword research, Google Ads campaigns, analytics tracking, and conversion-focused landing page design."
+      },
+      {
+        "title": "Workflow & Marketing Automation",
+        "description": "Building automated lead routing pipelines, CRM syncing, webhook integrations, and process automations utilizing n8n, Python, and RESTful APIs."
+      }
+    ],
+    "stats": [
+      { "value": "15+", "label": "Projects Completed" },
+      { "value": "3+", "label": "Live Client Deployments" },
+      { "value": "100%", "label": "Responsive Across Devices" },
+      { "value": "SEO & Funnel", "label": "Growth-Oriented Architecture" }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Tvaaraa Cosmeceuticx",
+      "category": "Client / E-Commerce & Brand Portal",
+      "featured": true,
+      "tagline": "Modern cosmeceuticals & skincare brand portal built for credibility, conversions, and organic search.",
+      "description": "Production brand website and product showcase designed for Tvaaraa Cosmeceuticx. Features structured product catalogs, responsive customer inquiry funnels, brand storytelling, and technical SEO architecture to drive organic discovery.",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+      "demo": "https://tvaaraacosmeceuticx.com/",
+      "github": "https://github.com/iamronakjagad/tvaraa-website",
+      "tags": ["Web Development", "Responsive UI", "Technical SEO", "Lead Funnel", "E-Commerce"],
+      "details": "Engineered mobile-first responsive layouts, structured product catalog presentation, integrated contact & lead capture points, and optimized meta descriptions, Schema tags, and Core Web Vitals for search rankings."
+    },
+    {
+      "id": 2,
+      "title": "Securex Earthing",
+      "category": "Client / Industrial & Corporate Portal",
+      "featured": true,
+      "tagline": "Industrial electrical safety & earthing solutions website with high-converting inquiry funnels.",
+      "description": "Commercial web portal developed for Securex Earthing to showcase industrial electrical protection systems, chemical earthing electrodes, lightning protection equipment, and facilitate direct B2B inquiries.",
+      "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80",
+      "demo": "https://securexearthing.com/",
+      "github": "https://github.com/iamronakjagad/securex-earthing",
+      "tags": ["HTML5/CSS3", "JavaScript", "Industrial Web", "SEO Optimization", "B2B Lead Gen"],
+      "details": "Architected product specification tables, downloadable catalog access, WhatsApp direct inquiry integration, structured schema markup for local and industrial search terms, and cross-browser compatibility."
+    },
+    {
+      "id": 3,
+      "title": "Shashwat Foundation Rajkot",
+      "category": "Client / Non-Profit & NGO Portal",
+      "featured": true,
+      "tagline": "Non-profit organization platform dedicated to social welfare, community drives, and transparency.",
+      "description": "Official online portal for Shashwat Foundation (Rajkot), built to communicate the NGO's mission, showcase community drives and health camps, display event galleries, and connect volunteers and donors seamlessly.",
+      "image": "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=800&q=80",
+      "demo": "https://shashwatfoundationrajkot.com/",
+      "github": "https://github.com/iamronakjagad/shashwat-foundation",
+      "tags": ["Web Design", "NGO Platform", "Content Strategy", "Mobile Responsive", "Community"],
+      "details": "Crafted an empathetic, accessible visual layout with responsive photo galleries, event archives, donation/volunteer inquiry channels, and fast load speeds across mobile networks in regional areas."
+    },
+    {
+      "id": 4,
+      "title": "AI-Based Scholarship Finder",
+      "category": "Full-Stack / AI Web Application",
+      "featured": true,
+      "tagline": "Intelligent eligibility matching system connecting students with educational funding opportunities.",
+      "description": "A smart web application designed to solve the friction students face when discovering eligible scholarships. Analyzes academic credentials, category, and eligibility parameters to recommend personalized scholarship matches.",
+      "image": "https://images.unsplash.com/photo-1677442135136-760c813028c4?auto=format&fit=crop&w=800&q=80",
+      "demo": "https://github.com/iamronakjagad/AI-Based-Scholarship-Finder",
+      "github": "https://github.com/iamronakjagad/AI-Based-Scholarship-Finder",
+      "tags": ["Python", "AI/ML", "React.js", "REST APIs", "MySQL"],
+      "details": "Engineered dynamic filtering algorithms based on student profiles, eligibility criteria, and deadlines. Designed an intuitive dashboard to search, track, and monitor scholarship application progress."
+    },
+    {
+      "id": 5,
+      "title": "Calculator Hub Suite",
+      "category": "Frontend Utility Tool",
+      "featured": false,
+      "tagline": "Interactive suite of real-time utility, financial, and fitness calculation tools.",
+      "description": "A responsive, single-page suite of essential everyday calculators (Financial EMI, BMI Health, Percentage, Age, and Scientific Arithmetic) built with a zero-dependency vanilla JS engine for instant execution.",
+      "image": "https://images.unsplash.com/photo-1587145820266-a5951ee6f620?auto=format&fit=crop&w=800&q=80",
+      "demo": "https://github.com/iamronakjagad",
+      "github": "https://github.com/iamronakjagad",
+      "tags": ["JavaScript (ES6+)", "HTML5", "CSS3", "Algorithms", "Mobile First"],
+      "details": "Constructed accurate formula algorithms with strict edge-case input validation, tactile interactive keypad controls, keyboard accessibility, and instant calculation state feedback."
+    }
+  ],
+  "skills": {
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "React.js",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Responsive Web Design",
+      "Cross-Browser Compatibility"
+    ],
+    "backend": [
+      "PHP",
+      "Python",
+      "Java",
+      "MySQL",
+      "RESTful APIs",
+      "CRUD Architecture",
+      "Database Modeling"
+    ],
+    "marketing": [
+      "Search Engine Optimization (SEO)",
+      "Technical & On-Page SEO",
+      "Google Search Console",
+      "Google Analytics (GA4)",
+      "Keyword & Competitor Research",
+      "Social Media Marketing (SMM)",
+      "Landing Page Optimization (CRO)",
+      "Email Marketing Strategies"
+    ],
+    "tools": [
+      "Git & GitHub",
+      "n8n Automation",
+      "Postman API Testing",
+      "WordPress CMS",
+      "VS Code",
+      "Canva",
+      "Vite & NPM"
+    ]
+  },
+  "timeline": [
+    {
+      "period": "2024 — Present",
+      "title": "Full-Stack Developer & Digital Marketer",
+      "organization": "Freelance & Client Deployments",
+      "type": "experience",
+      "description": "Delivering commercial client websites including Tvaaraa Cosmeceuticx, Securex Earthing, and Shashwat Foundation. Implementing technical SEO, conversion funnels, n8n automations, and modern React web applications."
+    },
+    {
+      "period": "2023 — 2024",
+      "title": "Software Development Trainee",
+      "organization": "Grow Skills Academy",
+      "type": "training",
+      "description": "Completed an intensive practical curriculum covering core software development, web engineering principles, frontend development (React, JS, HTML/CSS), backend programming (PHP, Python, Java), database schema design (MySQL), and Git version control."
+    },
+    {
+      "period": "2023 — 2024",
+      "title": "Digital Marketing & SEO Trainee",
+      "organization": "Grow Skills Academy",
+      "type": "training",
+      "description": "Received rigorous practical training in on-page and off-page SEO, site performance auditing, keyword search intent mapping, paid campaign architecture (Google Ads, Meta Ads), and conversion rate optimization principles."
+    },
+    {
+      "period": "Completed",
+      "title": "Bachelor of Commerce (B.Com)",
+      "organization": "University of Mumbai",
+      "type": "education",
+      "description": "Acquired comprehensive foundations in commerce, business accounting, marketing principles, and organizational communication, providing valuable commercial business insight when developing digital web solutions."
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Frontend & React Development",
+      "category": "Engineering",
+      "description": "Designing and developing fast, responsive, mobile-first web applications using React.js and Tailwind CSS with clean code architecture, smooth state handling, and accessible UI components."
+    },
+    {
+      "id": 2,
+      "title": "Digital Marketing & Technical SEO",
+      "category": "Growth",
+      "description": "Comprehensive website SEO audits, schema markup implementation, keyword strategy, meta tag architecture, Google Analytics (GA4) setup, and organic growth optimization."
+    },
+    {
+      "id": 3,
+      "title": "Business Website & WordPress",
+      "category": "Web Solutions",
+      "description": "Building credible, professional business websites that turn casual visitors into paying customers. Complete with lead capture forms, fast load times, and intuitive CMS control."
+    },
+    {
+      "id": 4,
+      "title": "Marketing & Workflow Automation",
+      "category": "Automation",
+      "description": "Connecting your website, contact forms, and CRM using n8n, Python scripts, and REST APIs to automate lead alerts, email notifications, and customer data tracking."
+    }
+  ]
+}
